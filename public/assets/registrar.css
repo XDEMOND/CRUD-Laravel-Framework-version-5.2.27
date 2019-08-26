@@ -1,0 +1,38 @@
+.footer{
+	background-color:#C13737;
+	height: 80px;
+	width: 100%;
+	display: block;
+	bottom: 0;
+	font-size: 2.25em;
+	position: absolute;
+}
+
+.header{
+	background-color:#C13737;
+	height: 80px;
+	width: 100%;
+	display: block;
+	top: 0;
+	font-size: 2.25em;
+	
+}
+
+body{
+	width:100%;
+	position: absolute;
+	
+}
+
+
+.ui.selection.dropdown{
+
+	width: 285px;
+	top: 20px;
+	right: 0px;
+
+}
+
+.nombre{
+  text-transform: uppercase;
+}
